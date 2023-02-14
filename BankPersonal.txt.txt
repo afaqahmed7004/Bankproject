@@ -1,0 +1,6 @@
+# Banking Personal
+# Day 4 Code 
+
+{
+ Personal accout in Bank.
+}
